@@ -1,10 +1,10 @@
-Hi there, I'm Jesse - aka codeSTACKr 👋
+Hi there, I'm Ron - aka Ron24g 👋
 
 YouTube Channel Subscribers Website Twitter Follow
 
 Visual Studio Marketplace Rating (Stars) Become A VS Code SuperHero
 
-I'm a Husband, Father, Developer, and Teacher!!
+I'm a Husband, Father, Developer, and Technician!!
 
 🔭 Check out my VS Code course: Become A VS Code SuperHero!!
 🌱 I’m currently learning everything 🤣
