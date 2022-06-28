@@ -5,16 +5,11 @@
 
 ## I'm a Husband, Father, Developer, and Technician!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning everything 🤣, but i'm more focused on front end development
+- 👯 I’m looking to collaborate with other content creators with positive vibes, and wanting to create new and exciting applications
 - 🥅 2022 Goals: Land a job in software development
 - ⚡ Fun fact: I love to work on my car!
 
-### Connect with me:
-
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/ronald-butler-5249a311#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
 
 
 ### Languages and Tools:
