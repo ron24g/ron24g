@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate with other content creators with positive vibes, and wanting to create new and exciting applications
 - 🥅 2023 Goals: Land a job in software development
 - ⚡ Fun fact: I love to work on my car!
-- 📧 email: 
+- 📧 email: ron24g@yahoo.com
 
 ### Languages and Tools:
 
