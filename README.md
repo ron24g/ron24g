@@ -7,10 +7,9 @@
 
 - 🌱 I’m currently learning everything 🤣, but i'm more focused on front end development
 - 👯 I’m looking to collaborate with other content creators with positive vibes, and wanting to create new and exciting applications
-- 🥅 2022 Goals: Land a job in software development
+- 🥅 2023 Goals: Land a job in software development
 - ⚡ Fun fact: I love to work on my car!
-
-
+- 📧 email: 
 
 ### Languages and Tools:
 
