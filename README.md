@@ -10,6 +10,7 @@
 - 🥅 2023 Goals: Land a job in software development
 - ⚡ Fun fact: I love to work on my car!
 - 📧 email: ron24g@yahoo.com
+- Linkedin: www.linkedin.com/in/ronald-butler-24g
 
 ### Languages and Tools:
 
